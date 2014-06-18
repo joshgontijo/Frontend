@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="myApp" class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>My AngularJS App</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.8/angular.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.8/angular-route.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.8/angular-resource.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+        <script src="js/app.js"></script>
+        <script src="js/services.js"></script>
+        <script src="js/controllers.js"></script>
+        <script src="js/filters.js"></script>
+        <script src="js/directives.js"></script>
+
+
+    </head>
+    <body ng-app="myapp">
+
+        <div ng-controller="MyCtrl1">
+            <!--<button ng-click="getAll()">Get all</button>-->
+            <!--<button ng-click="getById()">getById</button>-->
+            <!--            <button ng-click="create()">save</button>
+                        <button ng-click="update()">update</button>
+                        <button ng-click="delete()">delete</button>-->
+
+            <div style="background-color: buttonface">
+                <h3>Simple Form</h3>
+                <form>
+                    First Name: <input type="text" ng-model="user.fname" /><br />
+                    Last Name: <input type="text" ng-model="user.lname" /><br />
+                    Age <input type="number" ng-model="user.age" />
+                    <button ng-click="create()">SAVE</button>
+                </form>
+            </div>
+
+            <div style="background-color: lightpink">
+                <h3>Search by uuid</h3>
+                UUID: <input type="text" ng-model="uuid" /><br />
+                <button ng-click="getById(uuid)">Find</button>
+                <form ng-show="foundUser != null">
+                    First Name: <input type="text" ng-model="foundUser.fname" /><br />
+                    Last Name: <input type="text" ng-model="foundUser.lname" /><br />
+                    Age <input type="number" ng-model="foundUser.age" />
+                    <button ng-click="update()">UPDATE</button>
+                    <button ng-click="delete()">DELETE</button>
+                </form>
+            </div>
+
+            <div style="background-color:  bisque">
+                <h3>Users</h3>
+                <table>
+                    <tr>
+                        <th>UUID</th>
+                        <th>First name</th>
+                        <th>Last name</th>
+                        <th>age</th>
+                    </tr>
+                    <tr ng-repeat="user in users">
+                        <td>{{user.uuid}}</td>
+                        <td>{{user.fname}}</td>
+                        <td>{{user.lname}}</td>
+                        <td>{{user.age}}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>
