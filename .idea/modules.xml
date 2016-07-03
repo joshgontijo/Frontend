@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$//react-multi-module.iml" filepath="$PROJECT_DIR$//react-multi-module.iml" />
       <module fileurl="file://$PROJECT_DIR$/angular-rest-crud/angular-rest-crud.iml" filepath="$PROJECT_DIR$/angular-rest-crud/angular-rest-crud.iml" />
       <module fileurl="file://$PROJECT_DIR$/angular-simple-admin/angular-simple-admin.iml" filepath="$PROJECT_DIR$/angular-simple-admin/angular-simple-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/cytoscape/cytoscape.iml" filepath="$PROJECT_DIR$/cytoscape/cytoscape.iml" />
       <module fileurl="file://$PROJECT_DIR$/react/react.iml" filepath="$PROJECT_DIR$/react/react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/react-multi-module/react-multi-module.iml" filepath="$PROJECT_DIR$/react-multi-module/react-multi-module.iml" />
     </modules>
   </component>
 </project>
