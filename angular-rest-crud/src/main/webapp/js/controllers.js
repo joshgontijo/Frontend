@@ -3,9 +3,9 @@
 /* Controllers */
 
 angular.module('myApp.controllers', [])
-        .controller('MyCtrl1', ['$scope', 'Resources', function($scope, Resources) {
+        .controller('MyCtrl1', ['$scope', 'Resources', function ($scope, Resources) {
 
-                angular.element(document).ready(function() {
+                angular.element(document).ready(function () {
                     $scope.getAll();
                 });
 
@@ -15,9 +15,9 @@ angular.module('myApp.controllers', [])
                 $scope.userScope = {uuid: null, fname: 'asas', lname: 'nulsdl', age: null};
                 $scope.lastCreatedUser = {};
 
-                $scope.getAll = function() {
-                    Resources.user.query(function(response) {
-                        
+                $scope.getAll = function () {
+                    Resources.user.query(function (response) {
+
                         $scope.users = [];
                         console.log(response);
                         for (var key in response[0]) {
@@ -30,19 +30,19 @@ angular.module('myApp.controllers', [])
                     });
 
                 };
-                $scope.getById = function(uuid) {
-                    Resources.user.get({uuid: uuid}, function(response) { //success
+                $scope.getById = function (uuid) {
+                    Resources.user.get({uuid: uuid}, function (response) { //success
                         $scope.foundUser = response;
                         console.log(response);
                     },
-                            function(response) { // error
+                            function (response) { // error
                                 console.log(response);
                                 alert('ERROR: ' + response.status);
                             });
                 };
 
-                $scope.create = function() {
-                    Resources.user.create($scope.user, function(response) {
+                $scope.create = function () {
+                    Resources.user.create($scope.user, function (response) {
                         console.log(response);
                         console.log($scope.users);
                         $scope.lastCreatedUser = response;
@@ -52,14 +52,14 @@ angular.module('myApp.controllers', [])
                     });
                 };
 
-                $scope.update = function() {
+                $scope.update = function () {
                     Resources.user.update($scope.foundUser);
                     $scope.foundUser = null;
                     $scope.users = [];
                     $scope.getAll();
                 };
 
-                $scope.delete = function() {
+                $scope.delete = function () {
                     Resources.user.delete({uuid: $scope.foundUser.uuid});
                     $scope.users = [];
                     $scope.getAll();
@@ -67,6 +67,6 @@ angular.module('myApp.controllers', [])
                 };
 
             }])
-        .controller('MyCtrl2', ['$scope', function($scope) {
+        .controller('MyCtrl2', ['$scope', function ($scope) {
 
             }]);

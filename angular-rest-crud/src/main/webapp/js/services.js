@@ -6,9 +6,9 @@
 // Demonstrate how to register services
 // In this case it is a simple value service.
 angular.module('myApp.services', ['ngResource'])
-        .factory('Resources', ['$resource', function($resource) {
+        .factory('Resources', ['$resource', function ($resource) {
 
-                var Resources = function() {
+                var Resources = function () {
                     var _private = this;
 
                     _private.user = $resource('webresources/generic/:uuid', {}, {
@@ -25,7 +25,7 @@ angular.module('myApp.services', ['ngResource'])
                         delete: {method: 'DELETE'}
                     });
                 };
-                
+
                 return new Resources();
             }]);
 
