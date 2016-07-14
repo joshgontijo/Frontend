@@ -24,6 +24,7 @@ module.exports = React.createClass({
     },
     render: function () {
         return <div>
+            <h3>Header</h3>
             <form onSubmit={this.submit}>
                 <input onChange={this.updateInput} value={this.state.text} type="text" placeholder="Your message"/>
                 <input type="submit" value="Send"/>
