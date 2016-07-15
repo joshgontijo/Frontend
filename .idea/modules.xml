@@ -8,8 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/react/react.iml" filepath="$PROJECT_DIR$/react/react.iml" />
       <module fileurl="file://$PROJECT_DIR$/react-browserify-grunt/react-browserify-grunt.iml" filepath="$PROJECT_DIR$/react-browserify-grunt/react-browserify-grunt.iml" />
       <module fileurl="file://$PROJECT_DIR$/react-cytoscape/react-cytoscape.iml" filepath="$PROJECT_DIR$/react-cytoscape/react-cytoscape.iml" />
-      <module fileurl="file://$PROJECT_DIR$//react-multi-module.iml" filepath="$PROJECT_DIR$//react-multi-module.iml" />
-      <module fileurl="file://$PROJECT_DIR$/react-multi-module/react-multi-module.iml" filepath="$PROJECT_DIR$/react-multi-module/react-multi-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/react-ecma6/react-ecma6.iml" filepath="$PROJECT_DIR$/react-ecma6/react-ecma6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/react-flux-event/react-flux-event.iml" filepath="$PROJECT_DIR$/react-flux-event/react-flux-event.iml" />
     </modules>
   </component>
 </project>
