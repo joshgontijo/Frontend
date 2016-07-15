@@ -2,572 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b67c14e9-c2a4-4e81-b426-bfd7a44ffcad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-ecma6/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-ecma6/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-ecma6/bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-ecma6/src/hello.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-ecma6/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-ecma6/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-ecma6/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-ecma6/react-ecma6.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-flux-event/react-flux-event.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-ecma6/webpack.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/react-ecma6/src/world.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/btn-create-left.gif" afterPath="$PROJECT_DIR$/react/admin/design/btn-create-left.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/btn-create-right.gif" afterPath="$PROJECT_DIR$/react/admin/design/btn-create-right.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/content-h1.gif" afterPath="$PROJECT_DIR$/react/admin/design/content-h1.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/content.gif" afterPath="$PROJECT_DIR$/react/admin/design/content.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/dot.gif" afterPath="$PROJECT_DIR$/react/admin/design/dot.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/ico-delete.gif" afterPath="$PROJECT_DIR$/react/admin/design/ico-delete.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/ico-done.gif" afterPath="$PROJECT_DIR$/react/admin/design/ico-done.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/ico-info.gif" afterPath="$PROJECT_DIR$/react/admin/design/ico-info.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/ico-warning.gif" afterPath="$PROJECT_DIR$/react/admin/design/ico-warning.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/tmp/logo.gif" afterPath="$PROJECT_DIR$/react/admin/tmp/logo.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/menu-left.gif" afterPath="$PROJECT_DIR$/react/admin/design/menu-left.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/menu-right.gif" afterPath="$PROJECT_DIR$/react/admin/design/menu-right.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/menu.gif" afterPath="$PROJECT_DIR$/react/admin/design/menu.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/separator.gif" afterPath="$PROJECT_DIR$/react/admin/design/separator.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/submenu-active.gif" afterPath="$PROJECT_DIR$/react/admin/design/submenu-active.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/submenu-sub.gif" afterPath="$PROJECT_DIR$/react/admin/design/submenu-sub.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/switcher-1col.gif" afterPath="$PROJECT_DIR$/react/admin/design/switcher-1col.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/switcher-2col.gif" afterPath="$PROJECT_DIR$/react/admin/design/switcher-2col.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/tabs-l.gif" afterPath="$PROJECT_DIR$/react/admin/design/tabs-l.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/tabs-r.gif" afterPath="$PROJECT_DIR$/react/admin/design/tabs-r.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/tray-logout.gif" afterPath="$PROJECT_DIR$/react/admin/design/tray-logout.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/tray.gif" afterPath="$PROJECT_DIR$/react/admin/design/tray.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/ul-ul.gif" afterPath="$PROJECT_DIR$/react/admin/design/ul-ul.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/ul.gif" afterPath="$PROJECT_DIR$/react/admin/design/ul.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unicorn-admin.rar" afterPath="$PROJECT_DIR$/unicorn-admin.rar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/basic-commonjs/.babelrc" afterPath="$PROJECT_DIR$/react/examples/basic-commonjs/.babelrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/.eslintignore" afterPath="$PROJECT_DIR$/react/node_modules/qs/.eslintignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/.eslintrc" afterPath="$PROJECT_DIR$/react/node_modules/cors/.eslintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/.eslintrc" afterPath="$PROJECT_DIR$/react/node_modules/qs/.eslintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/.gitignore" afterPath="$PROJECT_DIR$/react-browserify-grunt/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-cytoscape/.gitignore" afterPath="$PROJECT_DIR$/react-cytoscape/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-flux-event/.gitignore" afterPath="$PROJECT_DIR$/react-flux-event/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/.jscs.json" afterPath="$PROJECT_DIR$/react/node_modules/qs/.jscs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/debug/.jshintrc" afterPath="$PROJECT_DIR$/react/node_modules/debug/.jshintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/.idea/.name" afterPath="$PROJECT_DIR$/react-browserify-grunt/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/.idea/.name" afterPath="$PROJECT_DIR$/react/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cookie-signature/.npmignore" afterPath="$PROJECT_DIR$/react/node_modules/cookie-signature/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/.npmignore" afterPath="$PROJECT_DIR$/react/node_modules/cors/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/debug/.npmignore" afterPath="$PROJECT_DIR$/react/node_modules/debug/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/.npmignore" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ipaddr.js/.npmignore" afterPath="$PROJECT_DIR$/react/node_modules/ipaddr.js/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime/.npmignore" afterPath="$PROJECT_DIR$/react/node_modules/mime/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ms/.npmignore" afterPath="$PROJECT_DIR$/react/node_modules/ms/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/.travis.yml" afterPath="$PROJECT_DIR$/react/node_modules/cors/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/.travis.yml" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ipaddr.js/.travis.yml" afterPath="$PROJECT_DIR$/react/node_modules/ipaddr.js/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/utils-merge/.travis.yml" afterPath="$PROJECT_DIR$/react/node_modules/utils-merge/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/css/1col.css" afterPath="$PROJECT_DIR$/react/admin/css/1col.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/css/2col.css" afterPath="$PROJECT_DIR$/react/admin/css/2col.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-flux-event/src/AppDispatcher.js" afterPath="$PROJECT_DIR$/react-flux-event/src/AppDispatcher.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/src/main/java/com/josue/jee/mavenproject1/ApplicationConfig.java" afterPath="$PROJECT_DIR$/angular-rest-crud/src/main/java/com/josue/jee/mavenproject1/ApplicationConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/CHANGELOG.md" afterPath="$PROJECT_DIR$/react/node_modules/qs/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/react/node_modules/cors/CONTRIBUTING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/react/node_modules/qs/CONTRIBUTING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ipaddr.js/Cakefile" afterPath="$PROJECT_DIR$/react/node_modules/ipaddr.js/Cakefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/Changelog.md" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/Changelog.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/src/Chat.js" afterPath="$PROJECT_DIR$/react-browserify-grunt/src/Chat.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/src/ChatMessage.js" afterPath="$PROJECT_DIR$/react-browserify-grunt/src/ChatMessage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/design/Desktop_1.ini" afterPath="$PROJECT_DIR$/react/admin/design/Desktop_1.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/js/Desktop_1.ini" afterPath="$PROJECT_DIR$/react/admin/js/Desktop_1.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/tmp/Desktop_1.ini" afterPath="$PROJECT_DIR$/react/admin/tmp/Desktop_1.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-cytoscape/src/Diagram.js" afterPath="$PROJECT_DIR$/react-cytoscape/src/Diagram.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-flux-event/src/Footer.js" afterPath="$PROJECT_DIR$/react-flux-event/src/Footer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frontend.iml" afterPath="$PROJECT_DIR$/Frontend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/src/main/java/com/josue/jee/mavenproject1/GenericResource.java" afterPath="$PROJECT_DIR$/angular-rest-crud/src/main/java/com/josue/jee/mavenproject1/GenericResource.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/Gruntfile.js" afterPath="$PROJECT_DIR$/react-browserify-grunt/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-cytoscape/Gruntfile.js" afterPath="$PROJECT_DIR$/react-cytoscape/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-flux-event/Gruntfile.js" afterPath="$PROJECT_DIR$/react-flux-event/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/accepts/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/accepts/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/body-parser/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/body-parser/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/content-disposition/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/content-disposition/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/content-type/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/content-type/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cookie/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/cookie/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/encodeurl/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/encodeurl/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/etag/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/etag/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/finalhandler/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/finalhandler/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/forwarded/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/forwarded/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/fresh/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/fresh/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/http-errors/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/http-errors/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/media-typer/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/media-typer/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/merge-descriptors/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/merge-descriptors/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/methods/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/methods/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime-db/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/mime-db/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime-types/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/mime-types/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/negotiator/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/negotiator/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/on-finished/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/on-finished/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/parseurl/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/parseurl/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/proxy-addr/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/proxy-addr/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/range-parser/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/range-parser/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/raw-body/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/raw-body/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/send/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/send/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/serve-static/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/serve-static/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/statuses/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/statuses/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/type-is/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/type-is/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/unpipe/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/unpipe/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/vary/HISTORY.md" afterPath="$PROJECT_DIR$/react/node_modules/vary/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/src/Header.js" afterPath="$PROJECT_DIR$/react-browserify-grunt/src/Header.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-flux-event/src/Header.js" afterPath="$PROJECT_DIR$/react-flux-event/src/Header.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/bytes/History.md" afterPath="$PROJECT_DIR$/react/node_modules/bytes/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cookie-signature/History.md" afterPath="$PROJECT_DIR$/react/node_modules/cookie-signature/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/debug/History.md" afterPath="$PROJECT_DIR$/react/node_modules/debug/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/depd/History.md" afterPath="$PROJECT_DIR$/react/node_modules/depd/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/History.md" afterPath="$PROJECT_DIR$/react/node_modules/express/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ms/History.md" afterPath="$PROJECT_DIR$/react/node_modules/ms/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/path-to-regexp/History.md" afterPath="$PROJECT_DIR$/react/node_modules/path-to-regexp/History.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/accepts/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/accepts/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/array-flatten/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/array-flatten/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/body-parser/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/body-parser/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/bytes/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/bytes/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/content-disposition/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/content-disposition/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/content-type/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/content-type/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cookie/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/cookie/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/cors/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/depd/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/depd/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/destroy/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/destroy/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ee-first/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/ee-first/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/encodeurl/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/encodeurl/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/escape-html/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/escape-html/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/etag/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/etag/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/express/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/finalhandler/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/finalhandler/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/forwarded/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/forwarded/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/fresh/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/fresh/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/http-errors/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/http-errors/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/inherits/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/inherits/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ipaddr.js/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/ipaddr.js/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/media-typer/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/media-typer/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/merge-descriptors/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/merge-descriptors/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/methods/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/methods/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/mime/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime-db/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/mime-db/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime-types/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/mime-types/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ms/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/ms/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/negotiator/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/negotiator/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/on-finished/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/on-finished/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/parseurl/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/parseurl/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/path-to-regexp/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/path-to-regexp/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/proxy-addr/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/proxy-addr/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/qs/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/range-parser/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/range-parser/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/raw-body/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/raw-body/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/send/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/send/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/serve-static/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/serve-static/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/setprototypeof/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/setprototypeof/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/statuses/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/statuses/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/type-is/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/type-is/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/unpipe/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/unpipe/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/utils-merge/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/utils-merge/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/vary/LICENSE" afterPath="$PROJECT_DIR$/react/node_modules/vary/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/debug/Makefile" afterPath="$PROJECT_DIR$/react/node_modules/debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_web_api_7_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_web_api_7_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/react-browserify-grunt/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/react/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/README.md" afterPath="$PROJECT_DIR$/react/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/README.md" afterPath="$PROJECT_DIR$/react-browserify-grunt/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-cytoscape/README.md" afterPath="$PROJECT_DIR$/react-cytoscape/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/README.md" afterPath="$PROJECT_DIR$/react/examples/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/basic-commonjs/README.md" afterPath="$PROJECT_DIR$/react/examples/basic-commonjs/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/jquery-mobile/README.md" afterPath="$PROJECT_DIR$/react/examples/jquery-mobile/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/accepts/README.md" afterPath="$PROJECT_DIR$/react/node_modules/accepts/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/array-flatten/README.md" afterPath="$PROJECT_DIR$/react/node_modules/array-flatten/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/body-parser/README.md" afterPath="$PROJECT_DIR$/react/node_modules/body-parser/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/content-disposition/README.md" afterPath="$PROJECT_DIR$/react/node_modules/content-disposition/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/content-type/README.md" afterPath="$PROJECT_DIR$/react/node_modules/content-type/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cookie/README.md" afterPath="$PROJECT_DIR$/react/node_modules/cookie/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/README.md" afterPath="$PROJECT_DIR$/react/node_modules/cors/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/destroy/README.md" afterPath="$PROJECT_DIR$/react/node_modules/destroy/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ee-first/README.md" afterPath="$PROJECT_DIR$/react/node_modules/ee-first/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/encodeurl/README.md" afterPath="$PROJECT_DIR$/react/node_modules/encodeurl/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/etag/README.md" afterPath="$PROJECT_DIR$/react/node_modules/etag/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/finalhandler/README.md" afterPath="$PROJECT_DIR$/react/node_modules/finalhandler/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/forwarded/README.md" afterPath="$PROJECT_DIR$/react/node_modules/forwarded/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/fresh/README.md" afterPath="$PROJECT_DIR$/react/node_modules/fresh/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/http-errors/README.md" afterPath="$PROJECT_DIR$/react/node_modules/http-errors/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/README.md" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/inherits/README.md" afterPath="$PROJECT_DIR$/react/node_modules/inherits/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ipaddr.js/README.md" afterPath="$PROJECT_DIR$/react/node_modules/ipaddr.js/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/media-typer/README.md" afterPath="$PROJECT_DIR$/react/node_modules/media-typer/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/merge-descriptors/README.md" afterPath="$PROJECT_DIR$/react/node_modules/merge-descriptors/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/methods/README.md" afterPath="$PROJECT_DIR$/react/node_modules/methods/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime/README.md" afterPath="$PROJECT_DIR$/react/node_modules/mime/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime-db/README.md" afterPath="$PROJECT_DIR$/react/node_modules/mime-db/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime-types/README.md" afterPath="$PROJECT_DIR$/react/node_modules/mime-types/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ms/README.md" afterPath="$PROJECT_DIR$/react/node_modules/ms/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/negotiator/README.md" afterPath="$PROJECT_DIR$/react/node_modules/negotiator/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/on-finished/README.md" afterPath="$PROJECT_DIR$/react/node_modules/on-finished/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/parseurl/README.md" afterPath="$PROJECT_DIR$/react/node_modules/parseurl/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/proxy-addr/README.md" afterPath="$PROJECT_DIR$/react/node_modules/proxy-addr/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/range-parser/README.md" afterPath="$PROJECT_DIR$/react/node_modules/range-parser/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/raw-body/README.md" afterPath="$PROJECT_DIR$/react/node_modules/raw-body/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/send/README.md" afterPath="$PROJECT_DIR$/react/node_modules/send/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/serve-static/README.md" afterPath="$PROJECT_DIR$/react/node_modules/serve-static/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/setprototypeof/README.md" afterPath="$PROJECT_DIR$/react/node_modules/setprototypeof/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/statuses/README.md" afterPath="$PROJECT_DIR$/react/node_modules/statuses/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/type-is/README.md" afterPath="$PROJECT_DIR$/react/node_modules/type-is/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/unpipe/README.md" afterPath="$PROJECT_DIR$/react/node_modules/unpipe/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/utils-merge/README.md" afterPath="$PROJECT_DIR$/react/node_modules/utils-merge/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/vary/README.md" afterPath="$PROJECT_DIR$/react/node_modules/vary/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/bytes/Readme.md" afterPath="$PROJECT_DIR$/react/node_modules/bytes/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cookie-signature/Readme.md" afterPath="$PROJECT_DIR$/react/node_modules/cookie-signature/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/debug/Readme.md" afterPath="$PROJECT_DIR$/react/node_modules/debug/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/depd/Readme.md" afterPath="$PROJECT_DIR$/react/node_modules/depd/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/escape-html/Readme.md" afterPath="$PROJECT_DIR$/react/node_modules/escape-html/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/Readme.md" afterPath="$PROJECT_DIR$/react/node_modules/express/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/path-to-regexp/Readme.md" afterPath="$PROJECT_DIR$/react/node_modules/path-to-regexp/Readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/src/main/java/com/josue/jee/mavenproject1/User.java" afterPath="$PROJECT_DIR$/angular-rest-crud/src/main/java/com/josue/jee/mavenproject1/User.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_spinning.scss" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_spinning.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/angular-rest-crud.iml" afterPath="$PROJECT_DIR$/angular-rest-crud/angular-rest-crud.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/angular-simple-admin.iml" afterPath="$PROJECT_DIR$/angular-simple-admin/angular-simple-admin.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/angular_rest_crud_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/angular_rest_crud_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/angular_rest_crud_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/angular_rest_crud_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/css/app.css" afterPath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/css/app.css" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/js/app.js" afterPath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/js/app.js" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/build/app.js" afterPath="$PROJECT_DIR$/react-browserify-grunt/build/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/app/app.js" afterPath="$PROJECT_DIR$/react/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/jquery-bootstrap/js/app.js" afterPath="$PROJECT_DIR$/react/examples/jquery-bootstrap/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/jquery-mobile/js/app.js" afterPath="$PROJECT_DIR$/react/examples/jquery-mobile/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/app/app.jsx" afterPath="$PROJECT_DIR$/react/admin/app/app.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/app/app2.js" afterPath="$PROJECT_DIR$/react/app/app2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/lib/application.js" afterPath="$PROJECT_DIR$/react/node_modules/express/lib/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/array-flatten/array-flatten.js" afterPath="$PROJECT_DIR$/react/node_modules/array-flatten/array-flatten.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/shared/css/base.css" afterPath="$PROJECT_DIR$/react/examples/shared/css/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/test/basic-auth.js" afterPath="$PROJECT_DIR$/react/node_modules/cors/test/basic-auth.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/big5-added.json" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/big5-added.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/test/body-events.js" afterPath="$PROJECT_DIR$/react/node_modules/cors/test/body-events.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/lib/bom-handling.js" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/lib/bom-handling.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/css/bootstrap.css" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/js/bootstrap.js" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/debug/bower.json" afterPath="$PROJECT_DIR$/react/node_modules/debug/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ipaddr.js/bower.json" afterPath="$PROJECT_DIR$/react/node_modules/ipaddr.js/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/debug/browser.js" afterPath="$PROJECT_DIR$/react/node_modules/debug/browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/depd/lib/compat/buffer-concat.js" afterPath="$PROJECT_DIR$/react/node_modules/depd/lib/compat/buffer-concat.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime/build/build.js" afterPath="$PROJECT_DIR$/react/node_modules/mime/build/build.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/depd/lib/compat/callsite-tostring.js" afterPath="$PROJECT_DIR$/react/node_modules/depd/lib/compat/callsite-tostring.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/negotiator/lib/charset.js" afterPath="$PROJECT_DIR$/react/node_modules/negotiator/lib/charset.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/partials/charts.html" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/partials/charts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime/cli.js" afterPath="$PROJECT_DIR$/react/node_modules/mime/cli.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/statuses/codes.json" afterPath="$PROJECT_DIR$/react/node_modules/statuses/codes.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/.idea/compiler.xml" afterPath="$PROJECT_DIR$/react-browserify-grunt/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/.idea/compiler.xml" afterPath="$PROJECT_DIR$/react/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/debug/component.json" afterPath="$PROJECT_DIR$/react/node_modules/debug/component.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/js/controllers.js" afterPath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/js/controllers.js" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/test/cors.js" afterPath="$PROJECT_DIR$/react/node_modules/cors/test/cors.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/cp936.json" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/cp936.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/cp949.json" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/cp949.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/cp950.json" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/cp950.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cytoscape/cytoscape-dagre.js" afterPath="$PROJECT_DIR$/cytoscape/cytoscape-dagre.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cytoscape/cytoscape.iml" afterPath="$PROJECT_DIR$/cytoscape/cytoscape.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cytoscape/cytoscape.js" afterPath="$PROJECT_DIR$/cytoscape/cytoscape.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/js/cytoscape.js" afterPath="$PROJECT_DIR$/react/admin/js/cytoscape.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cytoscape/dagre.js" afterPath="$PROJECT_DIR$/cytoscape/dagre.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-cytoscape/src/data.json" afterPath="$PROJECT_DIR$/react-cytoscape/src/data.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime-db/db.json" afterPath="$PROJECT_DIR$/react/node_modules/mime-db/db.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/dbcs-codec.js" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/dbcs-codec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/dbcs-data.js" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/dbcs-data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/debug/debug.js" afterPath="$PROJECT_DIR$/react/node_modules/debug/debug.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cytoscape/diagram.js" afterPath="$PROJECT_DIR$/cytoscape/diagram.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/js/diagram.js" afterPath="$PROJECT_DIR$/react/admin/js/diagram.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/js/directives.js" afterPath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/js/directives.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/js/directives.js" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/js/directives.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/negotiator/lib/encoding.js" afterPath="$PROJECT_DIR$/react/node_modules/negotiator/lib/encoding.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/.idea/encodings.xml" afterPath="$PROJECT_DIR$/react-browserify-grunt/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/.idea/encodings.xml" afterPath="$PROJECT_DIR$/react/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/test/error-response.js" afterPath="$PROJECT_DIR$/react/node_modules/cors/test/error-response.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/eucjp.json" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/eucjp.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/depd/lib/compat/event-listener-count.js" afterPath="$PROJECT_DIR$/react/node_modules/depd/lib/compat/event-listener-count.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/test/example-app.js" afterPath="$PROJECT_DIR$/react/node_modules/cors/test/example-app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/jquery-bootstrap/css/example.css" afterPath="$PROJECT_DIR$/react/examples/jquery-bootstrap/css/example.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/basic-jsx-external/example.js" afterPath="$PROJECT_DIR$/react/examples/basic-jsx-external/example.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/basic-jsx-precompile/example.js" afterPath="$PROJECT_DIR$/react/examples/basic-jsx-precompile/example.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/quadratic/example.js" afterPath="$PROJECT_DIR$/react/examples/quadratic/example.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/lib/express.js" afterPath="$PROJECT_DIR$/react/node_modules/express/lib/express.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/lib/extend-node.js" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/lib/extend-node.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/js/filters.js" afterPath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/js/filters.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/js/filters.js" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/js/filters.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/findbugs-idea.xml" afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/partials/forms.html" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/partials/forms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/gbk-added.json" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/gbk-added.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/partials/gears.html" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/partials/gears.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/js/go.js" afterPath="$PROJECT_DIR$/react/admin/js/go.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/index.html" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cytoscape/index.html" afterPath="$PROJECT_DIR$/cytoscape/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/index.html" afterPath="$PROJECT_DIR$/react/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/index.html" afterPath="$PROJECT_DIR$/react-browserify-grunt/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-cytoscape/index.html" afterPath="$PROJECT_DIR$/react-cytoscape/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-flux-event/index.html" afterPath="$PROJECT_DIR$/react-flux-event/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/index.html" afterPath="$PROJECT_DIR$/react/admin/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/basic/index.html" afterPath="$PROJECT_DIR$/react/examples/basic/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/basic-click-counter/index.html" afterPath="$PROJECT_DIR$/react/examples/basic-click-counter/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/basic-commonjs/index.html" afterPath="$PROJECT_DIR$/react/examples/basic-commonjs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/basic-jsx/index.html" afterPath="$PROJECT_DIR$/react/examples/basic-jsx/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/basic-jsx-external/index.html" afterPath="$PROJECT_DIR$/react/examples/basic-jsx-external/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/basic-jsx-harmony/index.html" afterPath="$PROJECT_DIR$/react/examples/basic-jsx-harmony/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/basic-jsx-precompile/index.html" afterPath="$PROJECT_DIR$/react/examples/basic-jsx-precompile/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/jquery-bootstrap/index.html" afterPath="$PROJECT_DIR$/react/examples/jquery-bootstrap/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/jquery-mobile/index.html" afterPath="$PROJECT_DIR$/react/examples/jquery-mobile/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/quadratic/index.html" afterPath="$PROJECT_DIR$/react/examples/quadratic/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/transitions/index.html" afterPath="$PROJECT_DIR$/react/examples/transitions/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/webcomponents/index.html" afterPath="$PROJECT_DIR$/react/examples/webcomponents/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/src/index.js" afterPath="$PROJECT_DIR$/react-browserify-grunt/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-cytoscape/src/index.js" afterPath="$PROJECT_DIR$/react-cytoscape/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-flux-event/src/index.js" afterPath="$PROJECT_DIR$/react-flux-event/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/basic-commonjs/index.js" afterPath="$PROJECT_DIR$/react/examples/basic-commonjs/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/accepts/index.js" afterPath="$PROJECT_DIR$/react/node_modules/accepts/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/body-parser/index.js" afterPath="$PROJECT_DIR$/react/node_modules/body-parser/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/bytes/index.js" afterPath="$PROJECT_DIR$/react/node_modules/bytes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/content-disposition/index.js" afterPath="$PROJECT_DIR$/react/node_modules/content-disposition/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/content-type/index.js" afterPath="$PROJECT_DIR$/react/node_modules/content-type/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cookie/index.js" afterPath="$PROJECT_DIR$/react/node_modules/cookie/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cookie-signature/index.js" afterPath="$PROJECT_DIR$/react/node_modules/cookie-signature/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/lib/index.js" afterPath="$PROJECT_DIR$/react/node_modules/cors/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/depd/index.js" afterPath="$PROJECT_DIR$/react/node_modules/depd/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/depd/lib/browser/index.js" afterPath="$PROJECT_DIR$/react/node_modules/depd/lib/browser/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/depd/lib/compat/index.js" afterPath="$PROJECT_DIR$/react/node_modules/depd/lib/compat/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/destroy/index.js" afterPath="$PROJECT_DIR$/react/node_modules/destroy/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ee-first/index.js" afterPath="$PROJECT_DIR$/react/node_modules/ee-first/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/encodeurl/index.js" afterPath="$PROJECT_DIR$/react/node_modules/encodeurl/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/escape-html/index.js" afterPath="$PROJECT_DIR$/react/node_modules/escape-html/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/etag/index.js" afterPath="$PROJECT_DIR$/react/node_modules/etag/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/index.js" afterPath="$PROJECT_DIR$/react/node_modules/express/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/lib/router/index.js" afterPath="$PROJECT_DIR$/react/node_modules/express/lib/router/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/finalhandler/index.js" afterPath="$PROJECT_DIR$/react/node_modules/finalhandler/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/forwarded/index.js" afterPath="$PROJECT_DIR$/react/node_modules/forwarded/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/fresh/index.js" afterPath="$PROJECT_DIR$/react/node_modules/fresh/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/http-errors/index.js" afterPath="$PROJECT_DIR$/react/node_modules/http-errors/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/index.js" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/lib/index.js" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/media-typer/index.js" afterPath="$PROJECT_DIR$/react/node_modules/media-typer/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/merge-descriptors/index.js" afterPath="$PROJECT_DIR$/react/node_modules/merge-descriptors/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/methods/index.js" afterPath="$PROJECT_DIR$/react/node_modules/methods/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime-db/index.js" afterPath="$PROJECT_DIR$/react/node_modules/mime-db/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime-types/index.js" afterPath="$PROJECT_DIR$/react/node_modules/mime-types/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ms/index.js" afterPath="$PROJECT_DIR$/react/node_modules/ms/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/negotiator/index.js" afterPath="$PROJECT_DIR$/react/node_modules/negotiator/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/on-finished/index.js" afterPath="$PROJECT_DIR$/react/node_modules/on-finished/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/parseurl/index.js" afterPath="$PROJECT_DIR$/react/node_modules/parseurl/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/path-to-regexp/index.js" afterPath="$PROJECT_DIR$/react/node_modules/path-to-regexp/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/proxy-addr/index.js" afterPath="$PROJECT_DIR$/react/node_modules/proxy-addr/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/lib/index.js" afterPath="$PROJECT_DIR$/react/node_modules/qs/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/test/index.js" afterPath="$PROJECT_DIR$/react/node_modules/qs/test/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/range-parser/index.js" afterPath="$PROJECT_DIR$/react/node_modules/range-parser/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/raw-body/index.js" afterPath="$PROJECT_DIR$/react/node_modules/raw-body/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/send/index.js" afterPath="$PROJECT_DIR$/react/node_modules/send/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/serve-static/index.js" afterPath="$PROJECT_DIR$/react/node_modules/serve-static/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/setprototypeof/index.js" afterPath="$PROJECT_DIR$/react/node_modules/setprototypeof/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/statuses/index.js" afterPath="$PROJECT_DIR$/react/node_modules/statuses/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/type-is/index.js" afterPath="$PROJECT_DIR$/react/node_modules/type-is/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/unpipe/index.js" afterPath="$PROJECT_DIR$/react/node_modules/unpipe/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/utils-merge/index.js" afterPath="$PROJECT_DIR$/react/node_modules/utils-merge/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/vary/index.js" afterPath="$PROJECT_DIR$/react/node_modules/vary/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/inherits/inherits.js" afterPath="$PROJECT_DIR$/react/node_modules/inherits/inherits.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/inherits/inherits_browser.js" afterPath="$PROJECT_DIR$/react/node_modules/inherits/inherits_browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/lib/middleware/init.js" afterPath="$PROJECT_DIR$/react/node_modules/express/lib/middleware/init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/internal.js" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/internal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ipaddr.js/src/ipaddr.coffee" afterPath="$PROJECT_DIR$/react/node_modules/ipaddr.js/src/ipaddr.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ipaddr.js/lib/ipaddr.js" afterPath="$PROJECT_DIR$/react/node_modules/ipaddr.js/lib/ipaddr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ipaddr.js/ipaddr.min.js" afterPath="$PROJECT_DIR$/react/node_modules/ipaddr.js/ipaddr.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ipaddr.js/test/ipaddr.test.coffee" afterPath="$PROJECT_DIR$/react/node_modules/ipaddr.js/test/ipaddr.test.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/test/issue-2.js" afterPath="$PROJECT_DIR$/react/node_modules/cors/test/issue-2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/test/issue-31.js" afterPath="$PROJECT_DIR$/react/node_modules/cors/test/issue-31.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/js/jquery-1.10.2.js" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/js/jquery-1.10.2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/js/jquery.js" afterPath="$PROJECT_DIR$/react/admin/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/tablesorter/jquery.tablesorter.js" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/tablesorter/jquery.tablesorter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/react-browserify-grunt/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/react/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/body-parser/lib/types/json.js" afterPath="$PROJECT_DIR$/react/node_modules/body-parser/lib/types/json.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/negotiator/lib/language.js" afterPath="$PROJECT_DIR$/react/node_modules/negotiator/lib/language.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/lib/router/layer.js" afterPath="$PROJECT_DIR$/react/node_modules/express/lib/router/layer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/login.html" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/css/main-ie6.css" afterPath="$PROJECT_DIR$/react/admin/css/main-ie6.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/css/main.css" afterPath="$PROJECT_DIR$/react/admin/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/partials/main.html" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/partials/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/src/main/main.iml" afterPath="$PROJECT_DIR$/angular-rest-crud/src/main/main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/negotiator/lib/mediaType.js" afterPath="$PROJECT_DIR$/react/node_modules/negotiator/lib/mediaType.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/.bin/mime.cmd" afterPath="$PROJECT_DIR$/react/node_modules/.bin/mime.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime/mime.js" afterPath="$PROJECT_DIR$/react/node_modules/mime/mime.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/.bin/mime" afterPath="$PROJECT_DIR$/react/node_modules/.bin/mime" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/js/mind-map.js" afterPath="$PROJECT_DIR$/react/admin/js/mind-map.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/.idea/misc.xml" afterPath="$PROJECT_DIR$/react-browserify-grunt/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/.idea/misc.xml" afterPath="$PROJECT_DIR$/react/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/test/mocha.opts" afterPath="$PROJECT_DIR$/react/node_modules/cors/test/mocha.opts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/modal.html" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/modal.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/react-ecma6/.gitignore" afterPath="$PROJECT_DIR$/react-ecma6-webpack/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/react-ecma6/README.md" afterPath="$PROJECT_DIR$/react-ecma6-webpack/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/react-ecma6/bundle.js" afterPath="$PROJECT_DIR$/react-ecma6-webpack/bundle.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/react-ecma6/index.html" afterPath="$PROJECT_DIR$/react-ecma6-webpack/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/react-ecma6/package.json" afterPath="$PROJECT_DIR$/react-ecma6-webpack/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/react-ecma6/react-ecma6.iml" afterPath="$PROJECT_DIR$/react-ecma6-webpack/react-ecma6-webpack.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/react-ecma6/src/hello.jsx" afterPath="$PROJECT_DIR$/react-ecma6-webpack/src/hello.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/react-ecma6/src/main.js" afterPath="$PROJECT_DIR$/react-ecma6-webpack/src/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/react-ecma6/src/world.jsx" afterPath="$PROJECT_DIR$/react-ecma6-webpack/src/world.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/react-ecma6/webpack.config.js" afterPath="$PROJECT_DIR$/react-ecma6-webpack/webpack.config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/.idea/modules.xml" afterPath="$PROJECT_DIR$/react-browserify-grunt/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/.idea/modules.xml" afterPath="$PROJECT_DIR$/react/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/debug/node.js" afterPath="$PROJECT_DIR$/react/node_modules/debug/node.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/package.json" afterPath="$PROJECT_DIR$/react-browserify-grunt/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-cytoscape/package.json" afterPath="$PROJECT_DIR$/react-cytoscape/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-flux-event/package.json" afterPath="$PROJECT_DIR$/react-flux-event/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/basic-commonjs/package.json" afterPath="$PROJECT_DIR$/react/examples/basic-commonjs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/accepts/package.json" afterPath="$PROJECT_DIR$/react/node_modules/accepts/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/array-flatten/package.json" afterPath="$PROJECT_DIR$/react/node_modules/array-flatten/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/body-parser/package.json" afterPath="$PROJECT_DIR$/react/node_modules/body-parser/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/bytes/package.json" afterPath="$PROJECT_DIR$/react/node_modules/bytes/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/content-disposition/package.json" afterPath="$PROJECT_DIR$/react/node_modules/content-disposition/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/content-type/package.json" afterPath="$PROJECT_DIR$/react/node_modules/content-type/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cookie/package.json" afterPath="$PROJECT_DIR$/react/node_modules/cookie/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cookie-signature/package.json" afterPath="$PROJECT_DIR$/react/node_modules/cookie-signature/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/cors/package.json" afterPath="$PROJECT_DIR$/react/node_modules/cors/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/debug/package.json" afterPath="$PROJECT_DIR$/react/node_modules/debug/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/depd/package.json" afterPath="$PROJECT_DIR$/react/node_modules/depd/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/destroy/package.json" afterPath="$PROJECT_DIR$/react/node_modules/destroy/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ee-first/package.json" afterPath="$PROJECT_DIR$/react/node_modules/ee-first/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/encodeurl/package.json" afterPath="$PROJECT_DIR$/react/node_modules/encodeurl/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/escape-html/package.json" afterPath="$PROJECT_DIR$/react/node_modules/escape-html/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/etag/package.json" afterPath="$PROJECT_DIR$/react/node_modules/etag/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/package.json" afterPath="$PROJECT_DIR$/react/node_modules/express/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/finalhandler/package.json" afterPath="$PROJECT_DIR$/react/node_modules/finalhandler/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/forwarded/package.json" afterPath="$PROJECT_DIR$/react/node_modules/forwarded/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/fresh/package.json" afterPath="$PROJECT_DIR$/react/node_modules/fresh/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/http-errors/package.json" afterPath="$PROJECT_DIR$/react/node_modules/http-errors/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/package.json" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/react/node_modules/inherits/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ipaddr.js/package.json" afterPath="$PROJECT_DIR$/react/node_modules/ipaddr.js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/media-typer/package.json" afterPath="$PROJECT_DIR$/react/node_modules/media-typer/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/merge-descriptors/package.json" afterPath="$PROJECT_DIR$/react/node_modules/merge-descriptors/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/methods/package.json" afterPath="$PROJECT_DIR$/react/node_modules/methods/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime/package.json" afterPath="$PROJECT_DIR$/react/node_modules/mime/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime-db/package.json" afterPath="$PROJECT_DIR$/react/node_modules/mime-db/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime-types/package.json" afterPath="$PROJECT_DIR$/react/node_modules/mime-types/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/ms/package.json" afterPath="$PROJECT_DIR$/react/node_modules/ms/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/negotiator/package.json" afterPath="$PROJECT_DIR$/react/node_modules/negotiator/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/on-finished/package.json" afterPath="$PROJECT_DIR$/react/node_modules/on-finished/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/parseurl/package.json" afterPath="$PROJECT_DIR$/react/node_modules/parseurl/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/path-to-regexp/package.json" afterPath="$PROJECT_DIR$/react/node_modules/path-to-regexp/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/proxy-addr/package.json" afterPath="$PROJECT_DIR$/react/node_modules/proxy-addr/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/package.json" afterPath="$PROJECT_DIR$/react/node_modules/qs/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/range-parser/package.json" afterPath="$PROJECT_DIR$/react/node_modules/range-parser/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/raw-body/package.json" afterPath="$PROJECT_DIR$/react/node_modules/raw-body/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/send/package.json" afterPath="$PROJECT_DIR$/react/node_modules/send/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/serve-static/package.json" afterPath="$PROJECT_DIR$/react/node_modules/serve-static/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/setprototypeof/package.json" afterPath="$PROJECT_DIR$/react/node_modules/setprototypeof/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/statuses/package.json" afterPath="$PROJECT_DIR$/react/node_modules/statuses/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/type-is/package.json" afterPath="$PROJECT_DIR$/react/node_modules/type-is/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/unpipe/package.json" afterPath="$PROJECT_DIR$/react/node_modules/unpipe/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/utils-merge/package.json" afterPath="$PROJECT_DIR$/react/node_modules/utils-merge/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/vary/package.json" afterPath="$PROJECT_DIR$/react/node_modules/vary/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/lib/parse.js" afterPath="$PROJECT_DIR$/react/node_modules/qs/lib/parse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/test/parse.js" afterPath="$PROJECT_DIR$/react/node_modules/qs/test/parse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/partials/partial1.html" afterPath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/partials/partial1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/partials/partial2.html" afterPath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/partials/partial2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/pom.xml" afterPath="$PROJECT_DIR$/angular-rest-crud/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/nbproject/private/private.properties" afterPath="$PROJECT_DIR$/angular-simple-admin/nbproject/private/private.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/angular-simple-admin/nbproject/private/private.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/nbproject/private/private.xml" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/nbproject/private/private.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/react-browserify-grunt/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/react-browserify-grunt/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/react/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/react/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/nbproject/project.properties" afterPath="$PROJECT_DIR$/angular-simple-admin/nbproject/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/nbproject/project.xml" afterPath="$PROJECT_DIR$/angular-simple-admin/nbproject/project.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/dist/qs.js" afterPath="$PROJECT_DIR$/react/node_modules/qs/dist/qs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/lib/middleware/query.js" afterPath="$PROJECT_DIR$/react/node_modules/express/lib/middleware/query.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/body-parser/lib/types/raw.js" afterPath="$PROJECT_DIR$/react/node_modules/body-parser/lib/types/raw.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/react-browserify-grunt.iml" afterPath="$PROJECT_DIR$/react-browserify-grunt/react-browserify-grunt.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-cytoscape/react-cytoscape.iml" afterPath="$PROJECT_DIR$/react-cytoscape/react-cytoscape.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/build/react-dom-server.js" afterPath="$PROJECT_DIR$/react/build/react-dom-server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/build/react-dom-server.min.js" afterPath="$PROJECT_DIR$/react/build/react-dom-server.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/build/react-dom.js" afterPath="$PROJECT_DIR$/react/build/react-dom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/build/react-dom.min.js" afterPath="$PROJECT_DIR$/react/build/react-dom.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/build/react-with-addons.js" afterPath="$PROJECT_DIR$/react/build/react-with-addons.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/build/react-with-addons.min.js" afterPath="$PROJECT_DIR$/react/build/react-with-addons.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/react.iml" afterPath="$PROJECT_DIR$/react/react.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/build/react.js" afterPath="$PROJECT_DIR$/react/build/react.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/build/react.min.js" afterPath="$PROJECT_DIR$/react/build/react.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/body-parser/lib/read.js" afterPath="$PROJECT_DIR$/react/node_modules/body-parser/lib/read.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/readme.txt" afterPath="$PROJECT_DIR$/react/admin/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/lib/request.js" afterPath="$PROJECT_DIR$/react/node_modules/express/lib/request.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/css/reset.css" afterPath="$PROJECT_DIR$/react/admin/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/lib/response.js" afterPath="$PROJECT_DIR$/react/node_modules/express/lib/response.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/lib/router/route.js" afterPath="$PROJECT_DIR$/react/node_modules/express/lib/router/route.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/css/sb-admin.css" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/css/sb-admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/sbcs-codec.js" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/sbcs-codec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/sbcs-data-generated.js" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/sbcs-data-generated.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/sbcs-data.js" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/sbcs-data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/server.js" afterPath="$PROJECT_DIR$/react/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/js/services.js" afterPath="$PROJECT_DIR$/angular-rest-crud/src/main/webapp/js/services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/js/services.js" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/js/services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/shiftjis.json" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/tables/shiftjis.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/spinning.less" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/spinning.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/lib/streams.js" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/lib/streams.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/lib/stringify.js" afterPath="$PROJECT_DIR$/react/node_modules/qs/lib/stringify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/test/stringify.js" afterPath="$PROJECT_DIR$/react/node_modules/qs/test/stringify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cytoscape/style.css" afterPath="$PROJECT_DIR$/cytoscape/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/css/style.css" afterPath="$PROJECT_DIR$/react/admin/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/js/switcher.js" afterPath="$PROJECT_DIR$/react/admin/js/switcher.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/tablesorter/tables.js" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/tablesorter/tables.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/inherits/test.js" afterPath="$PROJECT_DIR$/react/node_modules/inherits/test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime/build/test.js" afterPath="$PROJECT_DIR$/react/node_modules/mime/build/test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/body-parser/lib/types/text.js" afterPath="$PROJECT_DIR$/react/node_modules/body-parser/lib/types/text.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/js/toggle.js" afterPath="$PROJECT_DIR$/react/admin/js/toggle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/examples/transitions/transition.css" afterPath="$PROJECT_DIR$/react/examples/transitions/transition.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/mime/types.json" afterPath="$PROJECT_DIR$/react/node_modules/mime/types.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/js/ui-bootstrap-tpls-0.11.0.min.js" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/js/ui-bootstrap-tpls-0.11.0.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/js/ui.core.js" afterPath="$PROJECT_DIR$/react/admin/js/ui.core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/admin/js/ui.tabs.js" afterPath="$PROJECT_DIR$/react/admin/js/ui.tabs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/body-parser/lib/types/urlencoded.js" afterPath="$PROJECT_DIR$/react/node_modules/body-parser/lib/types/urlencoded.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/partials/users.html" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/partials/users.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/utf16.js" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/utf16.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/utf7.js" afterPath="$PROJECT_DIR$/react/node_modules/iconv-lite/encodings/utf7.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/lib/utils.js" afterPath="$PROJECT_DIR$/react/node_modules/express/lib/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/lib/utils.js" afterPath="$PROJECT_DIR$/react/node_modules/qs/lib/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/qs/test/utils.js" afterPath="$PROJECT_DIR$/react/node_modules/qs/test/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/font-awesome/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/node_modules/express/lib/view.js" afterPath="$PROJECT_DIR$/react/node_modules/express/lib/view.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-simple-admin/public_html/partials/withdrawal.html" afterPath="$PROJECT_DIR$/angular-simple-admin/public_html/partials/withdrawal.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-browserify-grunt/.idea/workspace.xml" afterPath="$PROJECT_DIR$/react-browserify-grunt/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react/.idea/workspace.xml" afterPath="$PROJECT_DIR$/react/.idea/workspace.xml" />
     </list>
     <ignored path="Frontend.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -590,64 +36,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react-router/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29608938">
+              <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-cytoscape/index.html">
+        <entry file="file://$PROJECT_DIR$/react-router/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="-6.6666665">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Diagram.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-cytoscape/src/Diagram.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react-router/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
-              <folding>
-                <marker date="1467907780400" expanded="true" signature="1904:2085" placeholder="&lt;xml/&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="world.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-ecma6/src/world.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/react-ecma6/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32941177">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-ecma6/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-4.6666665">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-ecma6/README.md">
+        <entry file="file://$PROJECT_DIR$/react-router/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor vertical-scroll-proportion="0.03742204">
-                <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+                <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -655,26 +79,6 @@
           </provider>
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-ecma6/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="48" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react-browserify-grunt/Gruntfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="2" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -738,6 +142,14 @@
         <option value="$PROJECT_DIR$/react-ecma6/src/world.jsx" />
         <option value="$PROJECT_DIR$/react-ecma6/README.md" />
         <option value="$PROJECT_DIR$/react-ecma6/package.json" />
+        <option value="$PROJECT_DIR$/react-router/index.html" />
+        <option value="$PROJECT_DIR$/react-router/package.json" />
+        <option value="$PROJECT_DIR$/react-router/README.md" />
+        <option value="$PROJECT_DIR$/react-ecma6-webpack/README.md" />
+        <option value="$PROJECT_DIR$/react-router/src/Hello.jsx" />
+        <option value="$PROJECT_DIR$/react-router/src/World.jsx" />
+        <option value="$PROJECT_DIR$/react-router/src/Layout.jsx" />
+        <option value="$PROJECT_DIR$/react-router/src/main.js" />
       </list>
     </option>
   </component>
@@ -816,17 +228,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="react-ecma6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-cytoscape" />
+              <option name="myItemId" value="react-router" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -845,7 +247,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/react-flux-event" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/react-router" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -855,11 +257,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$/react-ecma6-webpack" />
       <recent name="$PROJECT_DIR$/react-ecma6" />
       <recent name="$PROJECT_DIR$/react-cytoscape/src" />
       <recent name="$PROJECT_DIR$/react-cytoscape" />
-      <recent name="$PROJECT_DIR$/react-browserify-grunt" />
-      <recent name="C:\Users\Josue\Projects\Frontend\react-multi-module" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Josue\Projects\Frontend\react-multi-module\asset" />
@@ -1350,12 +752,12 @@
       <workItem from="1468589192100" duration="3060000" />
       <workItem from="1468592604042" duration="379000" />
       <workItem from="1468593653865" duration="202000" />
-      <workItem from="1468594573941" duration="73000" />
+      <workItem from="1468594573941" duration="2983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15906000" />
+    <option name="totallyTimeSpent" value="18816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="991" extended-state="6" />
@@ -1371,6 +773,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2171825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1382,14 +785,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1407,25 +809,17 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/react-cytoscape/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/react-cytoscape/src/Diagram.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
           <folding>
-            <marker date="1467907780400" expanded="true" signature="1904:2085" placeholder="&lt;xml/&gt;" />
+            <marker date="1467907780400" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-ecma6/src/world.jsx">
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/src/world.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
@@ -1433,7 +827,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-ecma6/package.json">
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
@@ -1441,7 +835,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-ecma6/.gitignore">
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1449,7 +843,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-ecma6/README.md">
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.0">
@@ -1463,7 +857,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-ecma6/webpack.config.js">
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="48" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="48" />
@@ -1492,12 +886,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
           <folding>
-            <marker date="1467907780400" expanded="true" signature="1904:2085" placeholder="&lt;xml/&gt;" />
+            <marker date="1467907780400" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-ecma6/src/world.jsx">
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/src/world.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
@@ -1505,7 +899,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-ecma6/package.json">
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1513,7 +907,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-ecma6/webpack.config.js">
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="48" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="48" />
@@ -1542,7 +936,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1467907780400" expanded="true" signature="1904:2085" placeholder="&lt;xml/&gt;" />
+            <marker date="1467907780400" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
           </folding>
         </state>
       </provider>
@@ -1575,7 +969,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1467907780400" expanded="true" signature="1904:2085" placeholder="&lt;xml/&gt;" />
+            <marker date="1467907780400" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
           </folding>
         </state>
       </provider>
@@ -1701,7 +1095,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/react-browserify-grunt/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.22905028">
           <caret line="14" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="2" />
           <folding />
         </state>
@@ -1712,12 +1106,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
           <folding>
-            <marker date="1467907780400" expanded="true" signature="1904:2085" placeholder="&lt;xml/&gt;" />
+            <marker date="1467907780400" expanded="true" signature="-1:-1" placeholder="&lt;xml/&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-ecma6/src/world.jsx">
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/src/world.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
@@ -1725,7 +1119,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-ecma6/.gitignore">
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1733,11 +1127,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-ecma6/README.md">
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16759777">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.2222223">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6666665">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-ecma6-webpack/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.03742204">
-            <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1747,18 +1183,32 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-ecma6/webpack.config.js">
+    <entry file="file://$PROJECT_DIR$/react-router/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.03742204">
+            <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-router/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="48" />
+        <state vertical-scroll-proportion="-6.6666665">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react-ecma6/package.json">
+    <entry file="file://$PROJECT_DIR$/react-router/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32941177">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.29608938">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
           <folding />
         </state>
       </provider>
