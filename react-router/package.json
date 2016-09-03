@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server --progress --inline --colors"
+    "dev": "webpack-dev-server --progress --inline --colors --port 8889"
   },
   "author": "",
   "license": "ISC",
@@ -12,6 +12,7 @@
     "grunt-webpack": "^1.0.11",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
+    "react-easy-transition": "0.0.5",
     "react-router": "^2.5.2",
     "webpack-dev-server": "^1.14.1"
   },
@@ -22,6 +23,7 @@
     "babel-preset-react": "^6.11.1",
     "grunt": "^1.0.1",
     "grunt-contrib-jshint": "^1.0.0",
+    "react-addons-css-transition-group": "^15.3.1",
     "webpack": "^1.13.1"
   }
 }
