@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="angular-rest-crud:war">
-    <output-path>$PROJECT_DIR$/angular-rest-crud/target</output-path>
-    <root id="archive" name="angular-rest-crud-0.1.war">
-      <element id="artifact" artifact-name="angular-rest-crud:war exploded" />
-    </root>
-  </artifact>
-</component>
