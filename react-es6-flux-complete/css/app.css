@@ -1,3 +1,21 @@
 div.row {
     margin-top: 12px;
 }
+.todo-actions {
+    list-style-type: none;
+    display: block;
+}
+.todo-actions ul {
+    list-style-type: none;
+}
+
+.todo-actions li {
+    padding-left: 10px;
+    float: left;
+}
+
+.todo-actions li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
