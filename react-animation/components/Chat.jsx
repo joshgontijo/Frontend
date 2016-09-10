@@ -34,7 +34,16 @@ module.exports = React.createClass({
         return (
             <div>
                 <Header />
-                {this.state.messages}
+                <ReactCSSTransitionGroup
+                    transitionName="example"
+                    transitionAppearTimeout={500}
+                    transitionEnterTimeout={500}
+                    transitionLeaveTimeout={500}>
+
+                    {this.state.messages}
+
+                </ReactCSSTransitionGroup>
+
                 <input onChange={this.updateInput} value={this.state.text} type="text" placeholder="Your message"/>
                 <button onClick={this.submit}>Submit</button>
             </div>

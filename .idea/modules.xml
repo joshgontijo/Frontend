@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/react-browserify-grunt/react-browserify-grunt.iml" filepath="$PROJECT_DIR$/react-browserify-grunt/react-browserify-grunt.iml" />
       <module fileurl="file://$PROJECT_DIR$/react-cytoscape/react-cytoscape.iml" filepath="$PROJECT_DIR$/react-cytoscape/react-cytoscape.iml" />
       <module fileurl="file://$PROJECT_DIR$/react-es5-webpack/react-es5-webpack.iml" filepath="$PROJECT_DIR$/react-es5-webpack/react-es5-webpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/react-es6-flux-complete/react-es6-flux-complete.iml" filepath="$PROJECT_DIR$/react-es6-flux-complete/react-es6-flux-complete.iml" />
       <module fileurl="file://$PROJECT_DIR$/react-es6-webpack/react-es6-webpack.iml" filepath="$PROJECT_DIR$/react-es6-webpack/react-es6-webpack.iml" />
       <module fileurl="file://$PROJECT_DIR$/react-flux-event/react-flux-event.iml" filepath="$PROJECT_DIR$/react-flux-event/react-flux-event.iml" />
       <module fileurl="file://$PROJECT_DIR$/react-router/react-router.iml" filepath="$PROJECT_DIR$/react-router/react-router.iml" />

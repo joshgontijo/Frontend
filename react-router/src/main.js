@@ -17,14 +17,13 @@ const App = ({ children, location }) => (
             transition="opacity 0.5s ease-in"
             finalStyle={{opacity: 1}}>
 
-
             {children}
-        </EasyTransition>
 
+        </EasyTransition>
     </div>
 )
 
-const Index = () => ( 
+const Index = () => (
     <div className="Image">
         <h1>Index</h1>
         <p>Animations with React Router with <a href="https://github.com/misterfresh/react-easy-transition">react-easy-transition</a>.</p>
