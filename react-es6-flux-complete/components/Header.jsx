@@ -1,7 +1,15 @@
 import React from 'react';
 
-export default class Hello extends React.Component {
+export default class Header extends React.Component {
     render() {
-        return <h1>Hello aaaa !!</h1>
+        return (
+            <div class="row">
+                <div class="large-12 columns">
+                    <div class="success callout">
+                        <p class="text-center">React + Webpack + Flux + Foundation</p>
+                    </div>
+                </div>
+            </div>
+        )
     }
 }
