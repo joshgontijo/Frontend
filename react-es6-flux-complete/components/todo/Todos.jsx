@@ -15,11 +15,7 @@ export default class Todos extends React.Component {
     }
 
     componentWillMount() {
-        //this.subscriberId = AppDispatcher.register(this._onChange);
-        //console.log("Registering component: " + this.subscriberId);
-
         TodoStore.addChangeListener(this._onChange);
-
     }
 
     componentWillUnMount() {
@@ -29,7 +25,6 @@ export default class Todos extends React.Component {
     }
 
     _onChange() {
-        //console.log('Todos._onChange', action);
         this.setState({
             todos: TodoStore.getAll()
         });

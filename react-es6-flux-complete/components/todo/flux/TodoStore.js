@@ -3,63 +3,53 @@ import * as Constants from '../../Constants'
 
 import AppDispatcher from '../../AppDispatcher'
 
+var _todos = {};
+
 class TodoStore extends EventEmitterBase {
     constructor() {
         //ref: http://stackoverflow.com/questions/32518102/passing-an-instance-method-to-super-with-es6-classes
         super((action) => this.handleEvent(action)); //register this function as listener
-        this.todos = []
     }
 
     handleEvent(action) {
-        console.log("TodoStore => received action", action);
-
         switch (action.type) {
-            case Constants.CREATE_TODO:
-                this.create(action.text);
+            case Constants.TODO_CREATED:
+                this._create(action.data);
                 break;
-            case Constants.DELETE_TODO:
-                this.remove(action.id);
+            case Constants.TODO_UPDATED:
+                this._update(action.data.id, action.data);
                 break;
-            case Constants.UPDATE_TODO:
-                this.update(action.id, action.newState);
+            case Constants.TODO_REMOVED:
+                this._remove(action.data);
+                break;
         }
     }
 
-    create(text) {
-        this.todos.push({
-            id: Date.now(),
-            text: text,
-            completed: false
-        });
-        super.emitChange();
-
-        //AppDispatcher.dispatch({
-        //    type: 'TODO_CREATED',
-        //    text: text
-        //})
-
-    }
-
-    update(id, newState) {
-        this.todos = this.todos.filter(function (todo) {
-            if(todo.id === id){
-                todo = Object.assign(todo, newState);
-            }
-            return todo;
-        });
+    _create(todo) {
+        console.log("TodoStore._create");
+        _todos[todo.id] = todo;
         super.emitChange();
     }
 
-    remove(id) {
-        this.todos = this.todos.filter(function (todo) {
-            return todo.id !== id;
-        });
+    _update(id, newState) {
+        console.log("TodoStore._update");
+        _todos[id] = Object.assign(_todos[id], newState);
         super.emitChange();
     }
 
+    _remove(todo) {
+        console.log("TodoStore._remove");
+        delete _todos[todo.id];
+        super.emitChange();
+    }
 
     getAll() {
-        return this.todos;
+        console.log("TodoStore.getAll");
+        var array = [];
+        for (var o in _todos) {
+            array.push(_todos[o]);
+        }
+        return array;
     }
 }
 

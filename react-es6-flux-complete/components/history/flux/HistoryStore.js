@@ -2,41 +2,53 @@ import EventEmitterBase from './../../EventEmitterBase'
 import * as Constants from '../../Constants'
 
 import AppDispatcher from '../../AppDispatcher'
+import HistoryWebAPI from './HistoryWebAPI'
 
 class HistoryStore extends EventEmitterBase {
     constructor() {
         //ref: http://stackoverflow.com/questions/32518102/passing-an-instance-method-to-super-with-es6-classes
         super((action) => this.handleEvent(action)); //register this function as listener
-        this.history = []
+        this._history = {};
     }
 
     handleEvent(action) {
-        console.log("HistoryStore => received action", action);
-
         switch (action.type) {
-            case Constants.CREATE_TODO:
-                this.create("ADD", action.text);
+            case Constants.TODO_CREATED:
+                this._create("ADD", action.data);
                 break;
-            case Constants.DELETE_TODO:
-                this.create("DELETE", action.text);
+            case Constants.TODO_UPDATED:
+                this._create("COMPLETED", action.data);
                 break;
-            case Constants.UPDATE_TODO:
-                this.create("COMPLETED", action.text);
+            case Constants.TODO_REMOVED:
+                this._create("DELETED", action.data);
+                break;
+            case Constants.COMMAND_RESTORE_HISTORY:
+                super.emitChange();
+                break;
+            //callback from API
+            case Constants.HISTORY_CREATED:
+                this._history[action.data.id] = action.data;
+                super.emitChange();
+                break;
         }
     }
 
-    create(type, text) {
-        this.history.push({
-            id: Date.now(),
+    _create(type, todo) {
+        console.log("HistoryStore.create - " + type);
+        let history = {
             type: type,
-            date: new Date(),
-            text: text
-        });
-        super.emitChange();
+            label: todo.text
+        };
+        HistoryWebAPI.create(history);
     }
 
     getAll() {
-        return this.history;
+        console.log("HistoryStore.getAll");
+        var array = [];
+        for (var o in this._history) {
+            array.push(this._history[o]);
+        }
+        return array;
     }
 }
 

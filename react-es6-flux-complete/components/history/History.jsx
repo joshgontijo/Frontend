@@ -1,5 +1,6 @@
 import React from 'react';
 import HistoryItem from './HistoryItem.jsx';
+
 import HistoryStore from './flux/HistoryStore';
 
 export default class History extends React.Component {

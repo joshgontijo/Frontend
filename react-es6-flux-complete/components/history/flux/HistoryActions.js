@@ -14,9 +14,9 @@ import * as Constants from '../../Constants'
 * Flux actions add another layer, although worth having it in general
 */
 
-export function restore(id) {
+export function revert(id) {
     AppDispatcher.dispatch({
-        //type: Constants.CREATE_TODO,
-        //text: text
+        type: Constants.COMMAND_RESTORE_HISTORY,
+        text: id
     })
 }

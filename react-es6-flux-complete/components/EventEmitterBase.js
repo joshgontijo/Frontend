@@ -1,17 +1,16 @@
 import { EventEmitter } from 'events';
 import AppDispatcher from './AppDispatcher';
 
-
 export default class EventEmitterBase extends EventEmitter {
     constructor(handler) {
         super();
-        if(handler === undefined){
+        if (handler === undefined) {
             throw Error('A handler callback must be provided');
         }
         if (typeof handler !== "function") {
             throw Error('Handler is not a function');
         }
-        AppDispatcher.register(handler);
+        this.subscriberId = AppDispatcher.register(handler);
     }
 
     /*
@@ -32,9 +31,11 @@ export default class EventEmitterBase extends EventEmitter {
      *  Commom function to notify changes, using Node's EventEmitter
      */
     emitChange() {
-        //EMIT CHANGE EVENT
-        console.log("Emitting EventEmitter's 'change'");
         this.emit(EventEmitterBase.EMIT_CHANGE);
+    }
+
+    getSubscriberId() {
+        return this.subscriberId;
     }
 }
 

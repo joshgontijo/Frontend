@@ -2,10 +2,9 @@ import React from 'react';
 import * as TodoActions from './flux/TodoActions'
 
 export default class Todo extends React.Component {
-
-    delete(e) {
+    remove(e) {
         e.preventDefault();
-        TodoActions.remove(this.props.todo.id);
+        TodoActions.remove(this.props.todo);
     }
 
     complete(e) {
@@ -24,7 +23,7 @@ export default class Todo extends React.Component {
                 </div>
                 <div class="small-2 columns">
                     <ul class="todo-actions">
-                        <li><a href="#" onClick={this.delete.bind(this)}><i class="fa fa-times"></i></a></li>
+                        <li><a href="#" onClick={this.remove.bind(this)}><i class="fa fa-times"></i></a></li>
                         {completed}
                     </ul>
                 </div>

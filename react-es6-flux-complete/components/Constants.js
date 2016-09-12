@@ -1,3 +1,21 @@
-export const CREATE_TODO = 'CREATE_TODO';
-export const DELETE_TODO = 'DELETE_TODO';
-export const UPDATE_TODO = 'UPDATE_TODO';
+//COMMANDS
+export const COMMAND_CREATE_TODO = 'CREATE_TODO';
+export const COMMAND_REMOVE_TODO = 'REMOVE_TODO';
+export const COMMAND_UPDATE_TODO = 'UPDATE_TODO';
+export const COMMAND_TODOS_RECEIVED = 'TODOS_RECEIVED';
+
+export const COMMAND_RESTORE_HISTORY = 'REVERT_HISTORY';
+
+
+//EVENTS
+export const TODO_CREATED = 'TODO_CREATED';
+export const TODO_REMOVED = 'TODO_REMOVED';
+export const TODO_UPDATED = 'TODO_UPDATED';
+export const TODO_HTTP_ERROR = 'TODO_HTTP_ERROR'; //generic for all requests
+
+export const HISTORY_CREATED = 'HISTORY_CREATED';
+export const HISTORY_RESTORED = 'HISTORY_RESTORED';
+export const HISTORIES_RECEIVED = 'HISTORIES_RECEIVED';
+
+
+export const ROOT = "http://localhost:3000";
