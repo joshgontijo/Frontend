@@ -1,8 +1,6 @@
 import EventEmitterBase from './../../EventEmitterBase'
 import * as Constants from '../../Constants'
 
-import AppDispatcher from '../../AppDispatcher'
-
 var _todos = {};
 
 class TodoStore extends EventEmitterBase {
